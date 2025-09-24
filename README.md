@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1150/lsd-web-data-extraction)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1150/lsd-web-data-extraction)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1150/lsd-web-data-extraction)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1150/lsd-web-data-extraction)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1150/lsd-web-data-extraction)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1150/lsd-web-data-extraction)
+
 # LSD MCP
 
 This is the updated MCP server for [LSD](https://lsd.so). The reason behind this update is to effectively leverage dynamic tools that are defined as [trips](https://lsd.so/docs/database/language/types/keywords/according) using [our SDK](https://github.com/lsd-so/internetdata).
